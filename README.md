@@ -18,7 +18,6 @@ Software engineer passionate about technology, problem-solving, and continuous l
 <p align="left"> <a href="https://www.github.com/waseemahemed" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 <a href="https://www.github.com/waseemahemed" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/waseemahemed?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Badges
 
 <b>My GitHub Stats</b>
 
